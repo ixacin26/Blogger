@@ -4,7 +4,7 @@ print("Hello")
 #*********************
 # API-key (testfuerperu)= AIzaSyCuhzILgE7-6DdlXJTcoaFTII_O67XGZ0w
 
-#TODO API-Key eintragen
+#
 APIKEY = 'AIzaSyCuhzILgE7-6DdlXJTcoaFTII_O67XGZ0w'
 # Blog-ID of testfuerperu
 BLOGID = '3082524141479667844'
