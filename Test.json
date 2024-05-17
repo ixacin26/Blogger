@@ -1,0 +1,56 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "5639596319316082099",
+      "blog": { "id": "3082524141479667844" },
+      "published": "2024-04-04T02:16:00-07:00",
+      "updated": "2024-04-04T02:16:07-07:00",
+      "url": "http://testfuerperu.blogspot.com/2024/04/tag-2-alles-wird-gut.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3082524141479667844/posts/5639596319316082099",
+      "title": "Tag 2 - Alles wird gut",
+      "content": "Noch ein Test für die API",
+      "author": {
+        "id": "07059395913217795687",
+        "displayName": "Klaus",
+        "url": "https://www.blogger.com/profile/07059395913217795687",
+        "image": { "url": "//www.blogger.com/img/blogger_logo_round_35.png" }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3082524141479667844/posts/5639596319316082099/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNzEyMjIyMTY3Nzc5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6185317395734790663",
+      "blog": { "id": "3082524141479667844" },
+      "published": "2024-03-19T00:37:00-07:00",
+      "updated": "2024-03-19T00:37:48-07:00",
+      "url": "http://testfuerperu.blogspot.com/2024/03/tag-1-test-fur-die-api.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3082524141479667844/posts/6185317395734790663",
+      "title": "Tag 1 - Test für die API",
+      "content": "Dies ist ein Testeintrag, um die API auszuprobieren.<br />",
+      "author": {
+        "id": "07059395913217795687",
+        "displayName": "Klaus",
+        "url": "https://www.blogger.com/profile/07059395913217795687",
+        "image": { "url": "//www.blogger.com/img/blogger_logo_round_35.png" }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/3082524141479667844/posts/6185317395734790663/comments"
+      },
+      "location": {
+        "name": "Lima, Peru",
+        "lat": -12.0463731,
+        "lng": -77.042754,
+        "span": "100.5752930141187, 140.625"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNzEwODMzODY4MzA0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyNC0wNC0wNFQwOToxNjowNy43Nzla\""
+}
