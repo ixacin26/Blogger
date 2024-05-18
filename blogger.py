@@ -1,9 +1,10 @@
 import requests
+# separate file for secret Key-Information
 import config
 
 print("Hello")
 
-#
+#API_Key and Blogger_ID is read from external file config.py
 APIKEY = config.API_Key
 # Blog-ID of testfuerperu
 BLOGID = config.Blogger_ID
