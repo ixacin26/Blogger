@@ -1,13 +1,12 @@
 import requests
+import config
 
 print("Hello")
-#*********************
-# API-key (testfuerperu)= AIzaSyCuhzILgE7-6DdlXJTcoaFTII_O67XGZ0w
 
 #
-APIKEY = 'AIzaSyCuhzILgE7-6DdlXJTcoaFTII_O67XGZ0w'
+APIKEY = config.API_Key
 # Blog-ID of testfuerperu
-BLOGID = '3082524141479667844'
+BLOGID = config.Blogger_ID
 # get_blog = (f"https://www.googleapis.com/blogger/v3/blogs/{BLOGID}?key={APIKEY}")
 # response = requests.get(get_blog)
 get_posts = (f"https://www.googleapis.com/blogger/v3/blogs/{BLOGID}/posts?key={APIKEY}")
